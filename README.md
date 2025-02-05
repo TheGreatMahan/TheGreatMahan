@@ -12,7 +12,7 @@ Hi there! 👋 I'm Mahan, a Software Developer from Fanshawe College with a pass
 ## 💻 Technical Skills
 
 - **Languages:** JavaScript, TypeScript, Python, C#, Java, SQL, HTML, CSS, C/C++, Kotlin, NoSQL, PHP
-- **Technologies:** React.js, AWS, Node.js, Angular, Vue.js, Express.js, Spring Boot, ASP.NET, jQuery, Bootstrap, Laravel, REST API, MongoDB, GraphQL, SQL Server, PostgreSQL, MySQL, Postman, Jira, Confluence, Visual Studio, Three.js, Tailwind CSS
+- **Technologies:** React.js, AWS, Node.js, Angular, Vue.js, Express.js, Spring Boot, ASP.NET, jQuery, Bootstrap, Laravel, REST API, MongoDB, GraphQL, SQL Server, PostgreSQL, MySQL, Postman, Jira, Confluence, Visual Studio, Three.js, Tailwind CSS, LangChain, Ollama
 
 ## 🚀 Projects
 
